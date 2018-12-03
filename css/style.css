@@ -33,6 +33,13 @@ body, html{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.fs-img5{
+    background-image: url("/img/Water-960x576.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
     
 hs-img1{ 
     background-image: url("/img/drink-water-stock-today-160311-tease-02_69d59e59635a02a843d1ea6097b19386.jpg");
@@ -61,7 +68,7 @@ h1 {
 }
 h2 {
     font-family: sans-serif;
-    font-size: .25vh;
+    font-size: ..5vh;
     font-size: 2vw;
 }
 
